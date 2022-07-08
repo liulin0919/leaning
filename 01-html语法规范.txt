@@ -1,0 +1,15 @@
+<html></html><开始></结束>  html 标签是由尖括号包围的关键词 成对出现
+<br />单标签少
+标签关系   包含关系  父子关系            <html>父子
+                                                                <head></hrad>兄弟儿子
+                                                                <body></body>兄弟儿子
+                                                         </html>父子      
+                并列关系   兄弟关系                                                            基本骨架
+标签名                      定义                                                       <html>   爷爷 整体
+<html></html>      HTML标签                                                            <head>嗨的  爸爸 头部
+<head></head>    文档的头部                                                                                   <title>太特   第一个页面 </title>  儿子 头部标题
+<titile></titie>       文档的标题                                                           <body>包得           
+<body></body>    文档的主体                                                                                   键盘敲烂，工资过万     主体
+                                                                                                           </body>
+                                                                                             </html>
+   
